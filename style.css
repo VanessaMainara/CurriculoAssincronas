@@ -1,0 +1,25 @@
+
+body {
+    background-color:#FBFFE2;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+h1 {
+    font-style: italic;
+    color:#78A391;
+}
+.foto-perfil {
+    width: 25%;
+    border-radius: 50%;
+    /* border: 3px solid #464646; */
+}
+
+h2 {
+    color:#78A391;;
+}
+
+h3 {
+    color:#78A391;
+}
